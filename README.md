@@ -1,12 +1,11 @@
-Hi, I’m Malavika! 👋
+#Hi, I’m Malavika! 👋
 
 🎨 Creative techie | 💡 Problem solver with heart | 🧠 Gen AI & Design Explorer
 🚀 Building tech with purpose — one wild idea at a time
 
 
----
 
-🧩 About Me
+##🧩 About Me
 
 I'm a CSE student from Kerala who believes tech is more than just code —
 it's about emotion, people, and ideas that stick.
@@ -19,32 +18,31 @@ Now I'm building apps, pitching ideas, and exploring the space where logic meets
 
 ✨ I believe:
 
-Actions > words
+• Actions > words
 
-Design should speak
+• Design should speak
 
-Every “no” is a push to show up louder next time
+• Every “no” is a push to show up louder next time
 
 
 
----
 
-🚀 Projects
+##🚀 Projects
 
-🍽️ GivEat
+###🍽️ GivEat
 
 A social impact platform that connects leftover food to people in need.
 🔧 Tech Stack: MERN, Figma
 📍 Role: Design & Community Lead
 
-🛒 Grocify
+###🛒 Grocify
 
 A smart grocery tracking app to reduce waste and improve planning.
 Built as part of a rapid ideathon experience.
 🔧 Tech Stack: Figma, Ideation Tools
 📍 Role: Designer & Presenter
 
-🎬 Review Mavericks
+###🎬 Review Mavericks
 
 A clean and minimal movie review web app.
 Built to merge smooth user interaction with simple, effective design.
@@ -52,9 +50,8 @@ Built to merge smooth user interaction with simple, effective design.
 📍 Role: Developer & Designer
 
 
----
 
-✨ I’m Passionate About
+##✨ I’m Passionate About
 
 🎨 UI/UX Design — storytelling through layout, visuals & empathy
 
@@ -70,9 +67,8 @@ Built to merge smooth user interaction with simple, effective design.
 
 
 
----
 
-🎯 Goals for 2025
+##🎯 Goals for 2025
 
 🎨 Dive deeper into UI/UX, Figma & user-centered design
 
@@ -88,9 +84,8 @@ Built to merge smooth user interaction with simple, effective design.
 
 
 
----
 
-💬 A Little Extra
+##💬 A Little Extra
 
 I enjoy singing, dancing, and sketching
 
@@ -100,19 +95,18 @@ I’m a hackathon aspirant who’s always ready to try, build, and learn
 
 
 
----
 
-📬 Connect with Me
+##📬 Connect with Me
 
 🔗 GitHub: github.com/MalavikaSaji005
 
 💼 LinkedIn: linkedin.com/in/malavika-saji
 
-📧 Email: malavikasaji@example.com
+📧 Email: malavikamariya005@gmail.com
 
 
 
----
 
 > “One hand codes, the other creates.”
-Let’s build something that matters ✨
+Let’s build something that matters! ✨
+> 
